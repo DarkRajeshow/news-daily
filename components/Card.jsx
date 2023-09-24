@@ -1,4 +1,5 @@
 // Let's import the necessary modules and components for this card component.
+"use client"
 import { motion } from 'framer-motion'; // Framer Motion for animations
 import React from 'react'; // React for building our component
 import dummyArticle from '@/public/dummyArticle.jpg'; // A placeholder image for articles
