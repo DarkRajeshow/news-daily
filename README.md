@@ -31,8 +31,8 @@ npm install
 
 2. I already included a ".env" file in the root directory which as a News API key:
 
-- Right now I made the api key publically availiable because I don't want make things complicated,
-- You can use your own API key if you want, but for now you can you my personal Api key.
+- Right now I made the api key publically availiable because I don't want to make things complicated,
+- You can use your own API key if you want, but for now you can use my personal Api key.
 - API_KEY=e649d8253fd348d4991ba73b537357e3
 
 3. Start the development server.
