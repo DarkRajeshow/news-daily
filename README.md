@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## NEWS Daily : Assignment by BTST Technologies
 
-First, run the development server:
+## Description
+NEWS Daily is a web application that provides the latest news using the News API. Stay updated with the most current news articles across various categories and sources.
+
+## Technologies Used
+- Next.js
+- Tailwind CSS
+- Framer Motion (for animations)
+- Font Awesome Icons (for icons)
+- News API (for data fetching)
+
+## Installation
+To run the application locally, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/your-username/news-daily.git
+cd news-daily
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## To run an applcation.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 1. Install all the dependancies.
+```` bash
+npm install
+````
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### 2. Create a .env file in the root directory and include News API key as follows:
 
-## Learn More
+# in ".env"
+You can use your own API key or you can you the provided one.
 
-To learn more about Next.js, take a look at the following resources:
+API_KEY=e649d8253fd348d4991ba73b537357e3
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### 3. Start the development server.
 
-## Deploy on Vercel
+````bash
+npm run dev
+````
+Open your web browser and access the app at http://localhost:3000.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Screenshots/Demo:
+You can view the expected appearance of the app by checking the images provided in the demo folder.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+### Contact Information
+Name: Rajanna Adeli (A Frontend Developer)
+Phone Number: +91 9359379618
+Email: rajannaadeli@gmail.com
