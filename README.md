@@ -18,37 +18,38 @@ To run the application locally, follow these steps:
 2. Navigate to the project directory.
 
 ```bash
-git clone https://github.com/your-username/news-daily.git
+git clone https://github.com/DarkRajeshow/news-daily.git
 cd news-daily
 ```
 
-## To run an applcation.
+## To run the applcation follow 3 steps.
 
-### 1. Install all the dependancies.
+1. Install all the dependancies by running...
 ```` bash
 npm install
 ````
 
-### 2. Create a .env file in the root directory and include News API key as follows:
+2. Create a ".env" file in the root directory and include News API key as follows:
 
-# in ".env"
 You can use your own API key or you can you the provided one.
 
 API_KEY=e649d8253fd348d4991ba73b537357e3
 
 
-### 3. Start the development server.
+3. Start the development server.
 
 ````bash
 npm run dev
 ````
 Open your web browser and access the app at http://localhost:3000.
 
+
+
 ### Screenshots/Demo:
-You can view the expected appearance of the app by checking the images provided in the demo folder.
+You can view the expected appearance of the app by checking the images provided in the "demo" folder.
 
 
 ### Contact Information
-Name: Rajanna Adeli (A Frontend Developer)
-Phone Number: +91 9359379618
-Email: rajannaadeli@gmail.com
+1. Name: Rajanna Adeli (A Frontend Developer)
+2. Phone Number: +91 9359379618
+3. Email: rajannaadeli@gmail.com
